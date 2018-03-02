@@ -134,6 +134,11 @@
 	text-align: center;
 }
 
+#portfolio p a:hover {
+    color: #33CCFF;
+}
+
+
 /*Elements used throughout webpages*/
 .container{
 	margin: 0;
@@ -287,6 +292,10 @@
 	font-size: 14px;
 	font-style: italic;
 	margin-bottom: 5px;
+}
+
+.portfolioSection{
+    margin-bottom: 15px;
 }
 
 .footer {
